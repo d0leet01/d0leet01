@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @d0leet01!
-- 👀 I’m interested in Time Series Analysis / Financial Data, Bayesian Statistics, Semiparametric Regression, and Analytics.
-- 🌱 I’m currently learning Semiparametric Regression, Analytics and Consulting Strategies. I am always learning how to become a better programmer.
-- 💞️ I’m looking to collaborate on Projects, specifically concerning machine learning, non-linear datasets, time-series.
+- Hi, I’m Dennis! I wanted to create a GitHub to showcase some of my favorite projects and homeworks. 
+- The projects that I am posting are from both my time at California State University Sacramento where I studied math
+- and my graduate statistics work at Texas A&M University. Currently I am learning analytics, flexible regression and I am always
+- looking to improve my coding skills. 
 - 📫 How to reach me: Send me an email to dennisdavidleet@gmail.com. Don't hesitate! I love working on projects with all sorts of different types of people.
+
+
 
 <!---
 d0leet01/d0leet01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
